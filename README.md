@@ -49,4 +49,12 @@ A sophisticated, client-side password strength analyzer that goes beyond basic v
 
 + Customizable length - 20-32 character range with visual slider
 
+🌟 Show Your Support
+
+If you find this project useful, please give it a ⭐️ on GitHub!
+
+🔐 Stay Secure, Stay Protected!
+
+Remember: The most secure password is one you don't reuse and can't remember! Use a password manager for best security practices.
+
 © 2025 Jaseer VK. All rights reserved.
