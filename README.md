@@ -8,7 +8,9 @@ A sophisticated, client-side password strength analyzer that goes beyond basic v
 🔗 Try it here https://jaseervk.github.io/password_ckecker/
 
 🚀 Features
+
 🔍 Advanced Password Analysis
+
 + Multi-dimensional scoring (Length, Complexity, Security, Penalties)
 
 + Weak pattern detection (sequences, repetitions, keyboard patterns, common terms)
