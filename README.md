@@ -15,31 +15,34 @@ A sophisticated, client-side password strength analyzer that goes beyond basic v
 
 + Real-time breach checking (simulated HIBP API integration)
 
-Detailed breakdown showing exactly why a password scores what it does
++ Detailed breakdown showing exactly why a password scores what it does
 
 🛡️ Security Features
-Client-side only - Passwords never leave your browser
 
-Common password detection - Checks against top 100 most used passwords
++ Client-side only - Passwords never leave your browser
 
-Pattern recognition - Identifies 13+ weak password patterns
++ Common password detection - Checks against top 100 most used passwords
 
-Privacy-first - All analysis happens locally
++ Pattern recognition - Identifies 13+ weak password patterns
+
++ Privacy-first - All analysis happens locally
 
 🎨 User Experience
-Responsive design - Works flawlessly on mobile, tablet, and desktop
 
-Interactive generator - 3 different password generation algorithms
++ Responsive design - Works flawlessly on mobile, tablet, and desktop
 
-Visual feedback - Color-coded strength meter and requirement indicators
++ Interactive generator - 3 different password generation algorithms
 
-Accessibility - ARIA labels and keyboard navigation support
++ Visual feedback - Color-coded strength meter and requirement indicators
+
++ Accessibility - ARIA labels and keyboard navigation support
 
 🔧 Password Generator
-Random generation - Secure random character combinations
 
-Pattern-based - Structured yet secure password patterns
++ Random generation - Secure random character combinations
 
-Memorable passwords - Word-based passwords that are easy to remember
++ Pattern-based - Structured yet secure password patterns
 
-Customizable length - 20-32 character range with visual slider
++ Memorable passwords - Word-based passwords that are easy to remember
+
++ Customizable length - 20-32 character range with visual slider
