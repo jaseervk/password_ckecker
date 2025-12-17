@@ -1,11 +1,10 @@
 🔐 Password Enforcer
 Advanced Password Security Analyzer with Real-time Breach Detection
 
-https://img.shields.io/badge/Status-Live-brightgreen https://img.shields.io/badge/Built%2520With-HTML%252FCSS%252FJS-blue https://img.shields.io/badge/License-MIT-yellow
-
 A sophisticated, client-side password strength analyzer that goes beyond basic validation with multi-dimensional scoring, breach detection simulation, and intelligent password generation.
 
 ✨ Live Demo
+
 🔗 Try it here https://jaseervk.github.io/password_ckecker/
 
 🚀 Features
