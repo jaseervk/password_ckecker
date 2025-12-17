@@ -49,8 +49,4 @@ A sophisticated, client-side password strength analyzer that goes beyond basic v
 
 + Customizable length - 20-32 character range with visual slider
 
-⚠️ Disclaimer
-
-This project is for educational purposes only. Do not use these techniques on real systems without permission.
-
 © 2025 Jaseer VK. All rights reserved.
